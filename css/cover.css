@@ -1,0 +1,26 @@
+#first p{
+    color:red;
+}
+#first a{
+    text-align:center;
+}
+#second{
+    color:#11a011;
+}
+body{
+    background-attachment:fixed;
+    background-size:100%;
+    background-repeat:no-repeat;
+}
+h2{
+    color:#df441dfb;
+}
+a{
+    color:#FFD700;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+}
